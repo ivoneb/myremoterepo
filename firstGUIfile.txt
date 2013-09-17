@@ -1,2 +1,3 @@
 This file will be checked in via the GUI frontend called Git-gui.
 Ok.
+This is todays change - 14 Sept.
